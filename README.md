@@ -1,0 +1,2 @@
+# Uninitialized Pointer in C
+This repository demonstrates a common error in C programming: using an uninitialized pointer.  The provided code compiles without warnings but may lead to unexpected behavior, crashes, or memory corruption depending on the system and compiler settings.  The solution provides a corrected version.
